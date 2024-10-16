@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    width: fit-content;
+}
+h2 {
+    color: rgb(67, 16, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: blanchedalmond;
+}
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    width:fit-content;
+    background-color: blanchedalmond;
+}
+table {
+    border-color: rgb(78, 29, 125);
+    border-style: dashed;
+}
